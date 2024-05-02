@@ -1,0 +1,21 @@
+{
+  "name": "atomic-eye",
+  "displayName": "Atomic Eye",
+  "description": "Atomic Eye Theme!",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.88.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Atomic Eye",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Atomic Eye-color-theme.json"
+      }
+    ]
+  }
+}
