@@ -1,8 +1,23 @@
 {
-  "name": "atomic-eye",
-  "displayName": "Atomic Eye",
-  "description": "Atomic Eye Theme!",
+  "name": "Boogel",
+  "displayName": "Boogel",
+  "description": "Boogel Theme!",
   "version": "0.0.1",
+  "publisher": "ArmOwOn",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ArmOwOn/Boogel"
+  },
+  "keywords": [
+    "dark theme",
+    "boogel",
+    "theboogel",
+    "boo gel",
+    "the boo gel",
+    "theme",
+    "dark theme",
+    "boogel dark"
+  ],
   "engines": {
     "vscode": "^1.88.0"
   },
@@ -12,9 +27,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "Atomic Eye",
+        "label": "Boogel",
         "uiTheme": "vs-dark",
-        "path": "./themes/Atomic Eye-color-theme.json"
+        "path": "./themes/boogel-color-theme.json"
       }
     ]
   }
